@@ -1,0 +1,25 @@
+.question1-form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5rem;
+    gap: 1rem;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+}
+.question1-form label{
+    text-transform: capitalize;
+    margin-left: .1rem;
+    letter-spacing: 1px;
+}
+.question1-form input{
+    padding: .7rem;
+    font-size: 1.2rem;
+    border-radius: .5rem;
+    background-color: #ddccdd;
+}
+
+
+
