@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(to right,#1c001ce0,#1c001cea), url('/images/background.png');
+    background: linear-gradient(to right,#1c001ce0,#1c001cea), url('../images/background.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
